@@ -21,15 +21,10 @@ A simple shopping cart web application that fetches product data from an API, di
 Ensure you have a modern web browser installed.
 
 ### Installation
-1. Clone the repository:
+  Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shopping-cart.git
+   git clone https://github.com/khushikumari05/Responsive-Cart-Page
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd shopping-cart
-   ```
-3. Open `index.html` in a browser.
 
 ## Usage
 1. The application fetches cart data from the API when the page loads.
