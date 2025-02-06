@@ -4,9 +4,13 @@ A simple shopping cart web application that fetches product data from an API, di
 
 ## Features
 ✅ Fetch cart items from API
+<br>
 ✅ Display product details (image, name, price, quantity, subtotal)
+<br>
 ✅ Update subtotal and total dynamically on quantity change
+<br>
 ✅ Responsive design for desktop, tablet, and mobile
+<br>
 ✅ Checkout button to simulate purchase
 
 ## Technologies Used
