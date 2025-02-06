@@ -13,6 +13,10 @@ A simple shopping cart web application that fetches product data from an API, di
 <br>
 ✅ Checkout button to simulate purchase
 
+## 🎨 Demo
+👉 **[Live Demo]https://responsive-cart-page-delta.vercel.app/**  
+
+
 ## Technologies Used
 - HTML5
 - CSS3
